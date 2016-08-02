@@ -1,0 +1,14 @@
+layout_spectrum: 0.4334762399084866
+typography_spectrum: 0.6515330825932324
+color:
+  brandStrength: 0.020810915622860193
+  lightness: 0.16232077637687325
+  saturation: 0.4142734457273036
+  rhythmicContrast: 0.16804307675920427
+  brandColors:
+    - '#000000'
+    - '#404040'
+    - '#808080'
+    - '#BFBFBF'
+    - '#FFFFFF'
+name: Making marks
