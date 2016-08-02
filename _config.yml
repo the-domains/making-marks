@@ -1,4 +1,3 @@
-layout_spectrum: 0.4334762399084866
 typography_spectrum: 0.6515330825932324
 color:
   brandStrength: 0.020810915622860193
@@ -11,5 +10,7 @@ color:
     - '#F4AFAB'
     - '#F4EEA9'
     - '#F4F482'
+layout_spectrum: 0.4334762399084866
 name: Making marks
 title: Heide Trepanier
+description: art and booze
