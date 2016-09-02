@@ -1,4 +1,3 @@
-layout_spectrum: 0.7644589727278799
 typography_spectrum: 0.29856507666409016
 color:
   brandStrength: 0.26194264413788915
@@ -11,8 +10,9 @@ color:
     - '#611427'
     - '#1D2326'
     - '#6A6A61'
+layout_spectrum: 0.7644589727278799
 name: Making marks
 favicon: >-
   https://the-grid-user-content.s3-us-west-2.amazonaws.com/e8ed1647-283c-499d-b07a-e85d87714898.jpg
 title: Heide Trepanier
-description: art and booze
+description: art and grumbling
