@@ -1,18 +1,18 @@
-typography_spectrum: 0.6515330825932324
+layout_spectrum: 0.7644589727278799
+typography_spectrum: 0.29856507666409016
 color:
-  brandStrength: 0.020810915622860193
-  lightness: 0.16232077637687325
-  saturation: 0.4142734457273036
-  rhythmicContrast: 0.16804307675920427
+  brandStrength: 0.26194264413788915
+  lightness: 0.7347603649832308
+  saturation: 0.7312135172542185
+  rhythmicContrast: 0.7592702256515622
   brandColors:
-    - '#F7EDF0'
-    - '#F4CBC6'
-    - '#F4AFAB'
-    - '#F4EEA9'
-    - '#F4F482'
-layout_spectrum: 0.4334762399084866
+    - '#DDDCC5'
+    - '#958976'
+    - '#611427'
+    - '#1D2326'
+    - '#6A6A61'
 name: Making marks
 favicon: >-
   https://the-grid-user-content.s3-us-west-2.amazonaws.com/e8ed1647-283c-499d-b07a-e85d87714898.jpg
 title: Heide Trepanier
-description: art and grumbling
+description: art and booze
